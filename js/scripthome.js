@@ -74,7 +74,7 @@ albumCards.forEach(card => {
     //cliccare sull'ALBUM
     //DENTRO AL CICLO FOREACH
     card.addEventListener("click", () => {
-      window.location.href = `album.spotify.html?id=${albumId}`
+      window.location.href = `album.music.html?id=${albumId}`
 
     })
 

@@ -7,7 +7,7 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "sass": "sass --watch scss/spotify.scss css/spotify.css"
+    "sass": "sass --watch scss/music.scss css/music.css"
   },
   "dependencies": {
     "bootstrap": "^5.3.8"

@@ -77,7 +77,7 @@ img.src = album.artist.picture
 
 //cliccare sull'ARTIST!!! event listener click
     document.querySelector(".artist-album").addEventListener ("click", () => {
-        window.location.href = `artist.spotify.html?id=${album.artist.id}`
+        window.location.href = `artist.music.html?id=${album.artist.id}`
     })
 
 
